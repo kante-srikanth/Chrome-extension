@@ -11,8 +11,8 @@
 ### Features
 * All your todo tasks are stored in chrome local storage.
 * Even if you accidentally refresh the browser or quit the chrome window, your data is saved automatically.
-* This has some cool CSS animations applied.
 * You can mark the task as completed or you can delete as well.
+* Animations
 
 ### Future plans:
 * Add timer to each task [user configurable]
