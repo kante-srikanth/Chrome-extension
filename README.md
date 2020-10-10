@@ -3,7 +3,7 @@
 *Uploaded in chrome web store*
 
 ### Tech stack
-* Chrome extensions
+* Chrome API's
 * Javascript
 * CSS
 * HTML
