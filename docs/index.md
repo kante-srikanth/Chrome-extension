@@ -28,6 +28,4 @@
 
 ### DEMO
 
-<a href="https://github.com/kante-srikanth/Todolist/">
-  <img src="https://github.com/kante-srikanth/Todolist/blob/master/Images/demo.gif" alt="If this demo is not loading, please visit github repo readme.md"/>
-</a>
+![If this demo is not loading, please visit github repo readme.md](../Images/demo.gif)
