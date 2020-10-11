@@ -10,9 +10,11 @@
 * Figma [Used for logo creation to display in chrome web store] 
 
 ### Steps
+```
 1. Clone the repo
 2. To use locally, Open index.html
 3. To use as chrome extension [upload the root folder in chrome >>  more tools >> extensions >> load unpacked]
+```
 
 ### Features
 * All your todo tasks are stored in chrome local storage.
