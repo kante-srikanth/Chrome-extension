@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Todolist
+### _Todo list chrome extension to track your daily activities_
+*Uploaded in chrome web store*
 
-You can use the [editor on GitHub](https://github.com/kante-srikanth/Chrome-extension/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### Tech stack
+* Chrome API's
+* Javascript
+* CSS
+* HTML
+* Figma [Used for logo creation to display in chrome web store] 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Steps
+```
+1. Clone the repo
+2. To use locally, Open index.html
+3. To use as chrome extension [upload the root folder in chrome >>  more tools >> extensions >> load unpacked]
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Features
+* All your todo tasks are stored in chrome local storage.
+* Even if you accidentally refresh the browser or quit the chrome window, your data is saved automatically.
+* You can mark the task as completed or you can delete as well.
+* Animations
 
-### Jekyll Themes
+### Future plans:
+* Add timer to each task [user configurable]
+* Context menu functionality [Select text and click to add] 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kante-srikanth/Chrome-extension/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### DEMO
+![Todolist demo](https://github.com/kante-srikanth/Todolist/blob/master/Images/demo.gif)
