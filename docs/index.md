@@ -28,4 +28,4 @@
 
 ### DEMO
 
-![If this demo is not loading, please visit github repo readme.md](../Images/demo.gif)
+![If this demo is not loading, please visit github repo readme.md](videos/demo.gif)
