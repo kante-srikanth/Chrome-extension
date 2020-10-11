@@ -26,8 +26,3 @@
 
 ### DEMO
 ![Todolist demo](https://github.com/kante-srikanth/Todolist/blob/master/Images/demo.gif)
-
-### Screenshots
-![List of tasks](https://github.com/kante-srikanth/Todolist/blob/master/Images/todolist.jpg)
-![Completed tasks](https://github.com/kante-srikanth/Todolist/blob/master/Images/completed.jpg)
-![Delete task](https://github.com/kante-srikanth/Todolist/blob/master/Images/deletetodo.jpg)
