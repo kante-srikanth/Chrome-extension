@@ -27,4 +27,4 @@
 * Context menu functionality [Select text and click to add] 
 
 ### DEMO
-![Todolist demo](https://github.com/kante-srikanth/Todolist/blob/master/Images/demo.gif)
+![If this demo is not loading, please visit github repo readme.md](videos/demo.gif)
